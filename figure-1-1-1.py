@@ -3,8 +3,9 @@
 # Stolen from SciPy.org
 # Modified by Ryan Dorson
 
-from scipy import linspace, polyval, polyfit, sqrt, stats, randn
-from pylab import plot, title, show, legend, savefig
+from scipy import stats
+from scipy import *
+from pylab import *
 
 # Sample data creation
 # Number of points 
